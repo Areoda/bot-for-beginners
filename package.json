@@ -1,0 +1,20 @@
+{
+  "name": "bot-4-everyone",
+  "version": "1.2.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "Bot",
+    "Discord"
+  ],
+  "author": "Areoda",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
